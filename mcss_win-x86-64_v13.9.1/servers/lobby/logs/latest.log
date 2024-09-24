@@ -1,0 +1,136 @@
+[17:26:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.1+12-LTS-29; Oracle Corporation null) on Windows 10 10.0 (amd64)
+[17:26:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-96-master@4514c71 (2024-09-22T21:50:05Z) for Minecraft 1.21.1
+[17:26:38] [ServerMain/WARN]: [oshi.driver.windows.perfmon.PerfmonDisabled] Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[17:26:39] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:26:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[17:26:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:26:52] [ServerMain/INFO]: Loaded 1290 recipes
+[17:26:52] [ServerMain/INFO]: Loaded 1399 advancements
+[17:26:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:26:52] [Server thread/INFO]: Loading properties
+[17:26:53] [Server thread/INFO]: This server is running Paper version 1.21.1-96-master@4514c71 (2024-09-22T21:50:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:26:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:26:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:26:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:26:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[17:26:56] [Server thread/INFO]: Default game type: SURVIVAL
+[17:26:56] [Server thread/INFO]: Generating keypair
+[17:26:56] [Server thread/INFO]: Starting Minecraft server on *:25571
+[17:26:56] [Server thread/INFO]: Using default channel type
+[17:26:56] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:26:56] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:26:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:26:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:26:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:26:56] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[17:26:56] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[17:26:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:26:56] [Server thread/INFO]: Preparing level "world"
+[17:26:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:26:59] [Server thread/INFO]: Time elapsed: 2047 ms
+[17:26:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:27:00] [Server thread/INFO]: Time elapsed: 746 ms
+[17:27:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:27:00] [Server thread/INFO]: Time elapsed: 194 ms
+[17:27:00] [Server thread/INFO]: [spark] Starting background profiler...
+[17:27:00] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
+[17:27:01] [Server thread/INFO]: Done preparing level "world" (4.381s)
+[17:27:01] [Server thread/INFO]: Running delayed init tasks
+[17:27:01] [Server thread/INFO]: Done (24.405s)! For help, type "help"
+[17:27:01] [Server thread/INFO]: Timings Reset
+[17:28:31] [Server thread/INFO]: /127.0.0.1:63001 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[17:29:34] [Server thread/INFO]: /127.0.0.1:63218 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[17:29:39] [User Authenticator #0/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:29:41] [Server thread/INFO]: akikukeo joined the game
+[17:29:41] [Server thread/INFO]: akikukeo[/127.0.0.1:63242] logged in with entity id 60 at ([world]190.96198368817247, 74.74314746814994, -13.463204512163315)
+[17:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[17:30:06] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:30:06] [Server thread/INFO]: akikukeo left the game
+[17:32:40] [User Authenticator #1/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:32:41] [Server thread/INFO]: akikukeo joined the game
+[17:32:41] [Server thread/INFO]: akikukeo[/127.0.0.1:63874] logged in with entity id 186 at ([world]189.88808620367055, 74.74314746814994, -10.225036302094676)
+[17:35:24] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:35:25] [Server thread/INFO]: akikukeo left the game
+[17:41:29] [User Authenticator #2/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:41:31] [Server thread/INFO]: akikukeo joined the game
+[17:41:31] [Server thread/INFO]: akikukeo[/[0:0:0:0:0:0:0:1]:65142] logged in with entity id 329 at ([world]189.88808620367055, 74.74314746814994, -10.225036302094676)
+[17:41:55] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:41:55] [Server thread/INFO]: akikukeo left the game
+[17:42:03] [User Authenticator #2/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:42:04] [Server thread/INFO]: akikukeo joined the game
+[17:42:04] [Server thread/INFO]: akikukeo[/127.0.0.1:65214] logged in with entity id 358 at ([world]189.16903853500907, 74.74314746814994, -9.813959832862102)
+[17:42:06] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:42:06] [Server thread/INFO]: akikukeo left the game
+[17:42:11] [Server thread/INFO]: /127.0.0.1:65237 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[17:43:19] [User Authenticator #3/INFO]: UUID of player rame8 is 27a0f60c-bfa0-43ce-911f-b906cf57ff6d
+[17:43:20] [Server thread/INFO]: rame8 joined the game
+[17:43:20] [Server thread/INFO]: rame8[/[0:0:0:0:0:0:0:1]:65373] logged in with entity id 364 at ([world]184.5, 71.0, -15.5)
+[17:43:59] [User Authenticator #3/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:44:00] [Server thread/INFO]: akikukeo joined the game
+[17:44:00] [Server thread/INFO]: akikukeo[/127.0.0.1:65429] logged in with entity id 398 at ([world]189.16903853500907, 74.74314746814994, -9.813959832862102)
+[17:44:16] [Server thread/INFO]: [Not Secure] [Server] test
+[17:44:25] [Async Chat Thread - #3/INFO]: <rame8> test
+[17:44:26] [Server thread/INFO]: [Not Secure] [Server] /server main
+[17:44:35] [Server thread/INFO]: rame8 lost connection: Disconnected
+[17:44:35] [Server thread/INFO]: rame8 left the game
+[17:44:37] [Server thread/INFO]: [Not Secure] [Server] ./server main ����
+[17:45:00] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:45:00] [Server thread/INFO]: akikukeo left the game
+[17:45:02] [Server thread/INFO]: /127.0.0.1:49161 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[17:45:10] [User Authenticator #4/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:45:11] [Server thread/INFO]: akikukeo joined the game
+[17:45:11] [Server thread/INFO]: akikukeo[/127.0.0.1:49175] logged in with entity id 468 at ([world]190.06279339393447, 74.49390748022948, -7.1457906379176)
+[17:45:13] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:45:13] [Server thread/INFO]: akikukeo left the game
+[17:45:17] [User Authenticator #4/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:45:18] [Server thread/INFO]: akikukeo joined the game
+[17:45:18] [Server thread/INFO]: akikukeo[/[0:0:0:0:0:0:0:1]:49191] logged in with entity id 476 at ([world]190.06279339393447, 74.49390748022948, -7.1457906379176)
+[17:45:24] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:45:24] [Server thread/INFO]: akikukeo left the game
+[17:45:25] [User Authenticator #4/INFO]: UUID of player rame8 is 27a0f60c-bfa0-43ce-911f-b906cf57ff6d
+[17:45:26] [Server thread/INFO]: rame8 joined the game
+[17:45:26] [Server thread/INFO]: rame8[/[0:0:0:0:0:0:0:1]:49207] logged in with entity id 480 at ([world]186.31843377691268, 72.0, -8.834695101853823)
+[17:45:32] [User Authenticator #4/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:45:32] [Server thread/INFO]: akikukeo joined the game
+[17:45:32] [Server thread/INFO]: akikukeo[/127.0.0.1:49220] logged in with entity id 487 at ([world]190.06279339393447, 74.49390748022948, -7.1457906379176)
+[17:45:43] [Async Chat Thread - #3/INFO]: <akikukeo> ./server main して
+[17:45:49] [Async Chat Thread - #3/INFO]: <rame8> sakkidekita
+[17:45:55] [Server thread/INFO]: rame8 lost connection: Disconnected
+[17:45:55] [Server thread/INFO]: rame8 left the game
+[17:45:56] [Server thread/INFO]: akikukeo lost connection: Disconnected
+[17:45:56] [Server thread/INFO]: akikukeo left the game
+[17:46:57] [User Authenticator #5/INFO]: UUID of player akikukeo is dc516a0c-3ebf-4f0c-ae6c-426f61b4dadf
+[17:46:58] [User Authenticator #5/INFO]: UUID of player rame8 is 27a0f60c-bfa0-43ce-911f-b906cf57ff6d
+[17:46:58] [Server thread/INFO]: akikukeo joined the game
+[17:46:58] [Server thread/INFO]: akikukeo[/127.0.0.1:49332] logged in with entity id 505 at ([world]190.16359308277902, 74.11650136792812, -8.317493972641861)
+[17:46:58] [Server thread/INFO]: rame8 joined the game
+[17:46:58] [Server thread/INFO]: rame8[/[0:0:0:0:0:0:0:1]:49333] logged in with entity id 506 at ([world]185.77921795952213, 72.0, -5.362941173078072)
+[17:47:32] [Server thread/INFO]: [Not Secure] [Server] stopsurune
+[17:47:36] [Async Chat Thread - #6/INFO]: <rame8> ook
+[17:47:45] [Server thread/INFO]: Stopping the server
+[17:47:45] [Server thread/INFO]: Stopping server
+[17:47:45] [Server thread/INFO]: Saving players
+[17:47:45] [Server thread/INFO]: akikukeo lost connection: Server closed
+[17:47:45] [Server thread/INFO]: akikukeo left the game
+[17:47:45] [Server thread/INFO]: rame8 lost connection: Server closed
+[17:47:45] [Server thread/INFO]: rame8 left the game
+[17:47:46] [Server thread/INFO]: Saving worlds
+[17:47:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:47:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:47:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:47:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Saved 518 block chunks, 133 entity chunks, 0 poi chunks in world 'world' in 1.22s
+[17:47:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[17:47:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:47:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[17:47:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:47:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:47:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:47:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
