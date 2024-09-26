@@ -316,3 +316,52 @@
 18:03:33 [情報] Saving reconnect locations
 18:03:33 [情報] Disabling plugins
 18:03:33 [情報] Closing IO threads
+15:27:11 [情報] Using standard Java JCE cipher.
+15:27:11 [情報] Using standard Java compressor.
+15:27:11 [情報] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:acb85e3:1871
+15:27:15 [情報] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:27:15 [情報] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:27:15 [情報] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:27:15 [情報] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:27:15 [情報] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:27:15 [情報] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:27:18 [情報] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [警告] Forced host server pvp is not defined
+15:27:18 [情報] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:18 [情報] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:acb85e3:1871 by SpigotMC
+15:27:22 [情報] Listening on /0.0.0.0:25577
+15:27:22 [情報] §cCommand not found
+15:27:22 [情報] §cCommand not found
+15:27:22 [情報] §cCommand not found
+15:27:22 [情報] §cCommand not found
+15:28:55 [情報] [/127.0.0.1:57026] <-> InitialHandler has pinged
+15:29:53 [情報] [/127.0.0.1:57148] <-> InitialHandler has connected
+15:29:54 [情報] [akikukeo] <-> ServerConnector [lobby] has connected
+15:29:55 [情報] Netty is not using direct IO buffers.
+
+15:30:40 [情報] [akikukeo] <-> ServerConnector [main] has connected
+15:30:40 [情報] [akikukeo] <-> DownstreamBridge <-> [lobby] has disconnected
+15:31:30 [情報] [akikukeo] <-> ServerConnector [lobby] has connected
+15:31:30 [情報] [akikukeo] <-> DownstreamBridge <-> [main] has disconnected
+15:31:41 [情報] [akikukeo] disconnected with: §fServer closed
+15:31:41 [情報] [akikukeo] -> UpstreamBridge has disconnected
+15:31:41 [情報] [akikukeo] <-> DownstreamBridge <-> [lobby] has disconnected
+15:31:47 [情報] [akikukeo,/127.0.0.1:57312] <-> InitialHandler has connected
+15:31:47 [情報] [akikukeo] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:31:47 [情報] [akikukeo] -> UpstreamBridge has disconnected
+15:32:04 [情報] Closing listener [id: 0x91e0b618, L:/[0:0:0:0:0:0:0:0]:25577]
+15:32:04 [情報] Closing pending connections
+15:32:04 [情報] Disconnecting 0 connections
+15:32:05 [情報] Saving reconnect locations
+15:32:05 [情報] Disabling plugins
+15:32:05 [情報] Closing IO threads
+15:32:07 [情報] Thank you and goodbye
